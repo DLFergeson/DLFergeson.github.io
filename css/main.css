@@ -152,8 +152,8 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
  clear: both;
 }
 .no-list{
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 .break{
